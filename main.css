@@ -78,3 +78,17 @@
     }
 }
 
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+  }
+  
