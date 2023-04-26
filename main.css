@@ -12,9 +12,10 @@
     background-attachment: fixed;
     background-position: center center;
     background: url(background.png);
-    background-size: cover;
+    background-size: contain;
     background-color:#464646;
 }
+
 
 .fa {
     padding: 20px;
