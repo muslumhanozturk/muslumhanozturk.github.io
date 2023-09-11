@@ -19,7 +19,7 @@ const exp = [
     desp: "<li>TECHNICAL SKILLS ::: Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud (AWS) Services | CloudFormation | EC2 | ECR | DynamoDB | CloudFront | S3 | API GW | Lambda | EFS | Boto3 | CloudWatch | RDS | MariaDB | ALB with ASG | Apache | Nginx | Snapshots | Volumes | VPC | Route53 | Certificate Manager | IAM | AMI | Jenkins | Docker | Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Helm | Grafana | Prometheus | Maven </li>",
   },
   {
-    title: "IT System and Network Administrator Trainee",
+    title: "System and Network Administrator Trainee",
     cardImage: "assets/images/experience-page/smartpro-logo.png",
     place: "",
     time: "(Sept 2022 - Feb 2023)",
