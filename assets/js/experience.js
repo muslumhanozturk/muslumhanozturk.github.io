@@ -16,21 +16,21 @@ const exp = [
     cardImage: "assets/images/experience-page/clarusway.png",
     place: "",
     time: "(Mar - Dec, 2022)",
-    desp: "<li>TECHNICAL SKILLS ::: Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud (AWS) Services | CloudFormation | EC2 | ECR | DynamoDB | CloudFront | S3 | API GW | Lambda | EFS | Boto3 | CloudWatch | RDS | MariaDB | ALB with ASG | Apache | Nginx | Snapshots | Volumes | VPC | Route53 | Certificate Manager | IAM | AMI | Jenkins | Docker | Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Helm | Grafana | Prometheus | Maven </li>",
+    desp: "<li>TECHNICAL SKILLS </li><li> Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud (AWS) Services | CloudFormation | EC2 | ECR | DynamoDB | CloudFront | S3 | API GW | Lambda | EFS | Boto3 | CloudWatch | RDS | MariaDB | ALB with ASG | Apache | Nginx | Snapshots | Volumes | VPC | Route53 | Certificate Manager | IAM | AMI | Jenkins | Docker | Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Helm | Grafana | Prometheus | Maven </li>",
   },
   {
     title: "System and Network Administrator Trainee",
     cardImage: "assets/images/experience-page/smartpro-logo.png",
     place: "",
     time: "(Sept 2022 - Feb 2023)",
-    desp: "<li>TECHNICAL SKILLS ::: Hyper-V | VMware | VirtualBox | Network communication | OSI reference model | TCP/IP-UDP Protocols | Cisco Packet Tracer | LAN, WAN and VLAN | EIGRP, IGRP, OSPF and RIP protocols | DHCP | DNS | WSUS</li>",
+    desp: "<li>TECHNICAL SKILLS </li><li> Hyper-V | VMware | VirtualBox | Network communication | OSI reference model | TCP/IP-UDP Protocols | Cisco Packet Tracer | LAN, WAN and VLAN | EIGRP, IGRP, OSPF and RIP protocols | DHCP | DNS | WSUS</li>",
   },
   {
     title: "Electronic Information Systems Technician",
     cardImage: "assets/images/experience-page/msu-logo.png",
     place: "",
     time: "(Sept 2012 - Jul 2018)",
-    desp: "<li>SOFT SKILLS ::: Analytical Thinking | Problem-Solving | Self-Motivated | Strong Communication | Project Management | Planning | Time Management | Adaptability | Continuous Learning | Collaboration & Teamwork | Coaching Mindset | Resilience | Curiosity | Emotional Intelligence | Creativity</li>",    
+    desp: "<li>SOFT SKILLS </li><li> Analytical Thinking | Problem-Solving | Self-Motivated | Strong Communication | Project Management | Planning | Time Management | Adaptability | Continuous Learning | Collaboration & Teamwork | Coaching Mindset | Resilience | Curiosity | Emotional Intelligence | Creativity</li>",    
   },  
   // {
   //   title: "Research Intern",
@@ -58,9 +58,9 @@ const showCards2 = () => {
               <span class="pre-heading">${place}</span><br>
               <span class="author">${time}</span>
             </p>
-            <ol>
+            <p>
               ${desp}
-            </ol>
+            </p>
           </header>
         </article>
       </div>
