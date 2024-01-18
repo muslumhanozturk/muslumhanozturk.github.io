@@ -25,13 +25,13 @@ const exp = [
     time: "(Sept 2022 - Feb 2023)",
     desp: "<li>TECHNICAL SKILLS </li><li> Hyper-V | VMware | VirtualBox | Network communication | OSI reference model | TCP/IP-UDP Protocols | Cisco Packet Tracer | LAN, WAN and VLAN | EIGRP, IGRP, OSPF and RIP protocols | DHCP | DNS | WSUS</li>",
   },
-  {
-    title: "Electronic Information Systems Technician",
-    cardImage: "assets/images/experience-page/msu-logo.png",
-    place: "",
-    time: "(Sept 2012 - Jul 2018)",
-    desp: "<li>SOFT SKILLS </li><li> Analytical Thinking | Problem-Solving | Self-Motivated | Strong Communication | Project Management | Planning | Time Management | Adaptability | Continuous Learning | Collaboration & Teamwork | Coaching Mindset | Resilience | Curiosity | Emotional Intelligence | Creativity</li>",    
-  },  
+  // {
+  //   title: "Electronic Information Systems Technician",
+  //   cardImage: "assets/images/experience-page/msu-logo.png",
+  //   place: "",
+  //   time: "(Sept 2012 - Jul 2018)",
+  //   desp: "<li>SOFT SKILLS </li><li> Analytical Thinking | Problem-Solving | Self-Motivated | Strong Communication | Project Management | Planning | Time Management | Adaptability | Continuous Learning | Collaboration & Teamwork | Coaching Mindset | Resilience | Curiosity | Emotional Intelligence | Creativity</li>",    
+  // },  
   // {
   //   title: "Research Intern",
   //   cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
